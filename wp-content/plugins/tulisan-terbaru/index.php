@@ -16,11 +16,8 @@ function tulisan_terbaru_actions() {
 add_action('admin_menu', 'tulisan_terbaru_actions');
 
 function tulisan_terbaru_function() {
-	echo '<h3>Tulisan terbaru website kebudayaan'.date('j F Y').'</h3>';
 	$blogs = get_last_updated();
-	echo '<table class="widefat" cellspacing="0">';
-	
- 	foreach ($blogs AS $blog) {    
+	foreach ($blogs AS $blog) {    
 		switch_to_blog($blog["blog_id"]);
 		$today = getdate();
 		$args = array(
@@ -34,22 +31,45 @@ function tulisan_terbaru_function() {
         		)
     		)
 		);
+
 		$wpb_all_query = new WP_Query($args); ?>
 		<?php if ( $wpb_all_query->have_posts() ) : ?>
 	 
 	    	<!-- the loop -->
-	    	<?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
-	       <tr> <td><?php the_time('H:i');?></td><td><?php echo get_bloginfo('name');?></td><td><a href="<?php the_permalink(); ?>"><?php the_title();?></a></td></tr>
+	    		<?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
+	      		 <?php the_time('H:i');?>
+	      		 <?php echo get_bloginfo('name');?>         		 
+	      		 <a href="<?php the_permalink(); ?>"><?php the_title();?></a><?php echo '<br>';?>
+	      		 
 	    	<?php endwhile; ?>
 	    	<!-- end of the loop -->
-			 
-	    <?php wp_reset_postdata(); ?>
-	 	<?php endif;
-	  		restore_current_blog();
+	    	<?php wp_reset_postdata(); ?>
+	 		<?php endif;
+	 		restore_current_blog();
   	}
-  	return ($html);
 }
 add_shortcode('artikel-terbaru', 'tulisan_terbaru_function');
+
+
+/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 function draft_function() { 
 	echo "<h3>Draft tulisan website kebudayaan ".date('j F Y')."</h3>";
@@ -88,3 +108,4 @@ function draft_function() {
 	  		restore_current_blog();
   	};
 }; 
+*/

@@ -1,0 +1,1797 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ultimate Newsletter\n"
+"POT-Creation-Date: 2017-03-18 17:16+0530\n"
+"PO-Revision-Date: 2017-03-18 17:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-ultimate-newsletter-admin.php:59
+msgid "Drop Blocks Here"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:60
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:10
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:93
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:10
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:57
+#: admin/partials/subscribers/ultimate-newsletter-subscribers-list.php:12
+msgid "Import Subscribers"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:61
+msgid "Continue to Import"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:62
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:10
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:71
+#: admin/partials/subscribers/ultimate-newsletter-subscribers-list.php:13
+msgid "Export Subscribers"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:63
+msgid "You have not added any data to import."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:64
+msgid "Select atleast one email group."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:65
+msgid "No email column found."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:66
+msgid "Select atleast one field to export."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:80
+#: admin/class-ultimate-newsletter-admin.php:81
+#: admin/class-ultimate-newsletter-admin.php:114
+#: includes/class-ultimate-newsletter-activator.php:132
+msgid "Ultimate Newsletter"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:91
+#: admin/class-ultimate-newsletter-admin.php:92
+msgid "All Newsletters"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:433
+msgid "Blank Template"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:512
+#, php-format
+msgid "%s copy"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:597
+msgid "Sorry, please try again"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:609
+msgid "Newsletter sent. Check your inbox."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:649
+#: widgets/subscription-form/subscription-form.php:138
+msgid "Newsletter"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:650
+#: admin/partials/newsletters/ultimate-newsletters-list.php:10
+msgid "Newsletters"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:685
+#: admin/class-ultimate-newsletter-subscribers.php:816
+msgid "All"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:688
+#: admin/class-ultimate-newsletter-admin.php:1031
+msgid "Not Sent"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:692
+msgid "Scheduled"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:696
+#: admin/class-ultimate-newsletter-admin.php:1028
+msgid "Sent"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:700
+msgid "paused"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:730
+#: admin/class-ultimate-newsletter-subscribers.php:852
+#: includes/helper-functions.php:51
+msgid "All Email Groups"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:763
+#: admin/class-ultimate-newsletter-subscribers.php:885
+msgid "Filter"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:796
+msgid "Filter by date"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:798
+msgid "All dates"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:811
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:875
+#: admin/class-ultimate-newsletter-subscribers.php:939
+msgid "Edit"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:878
+msgid "Preview"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:879
+msgid "Duplicate"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:880
+#: admin/class-ultimate-newsletter-admin.php:1117
+#: admin/class-ultimate-newsletter-subscribers.php:940
+#: admin/class-ultimate-newsletter-subscribers.php:995
+msgid "Delete"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:985
+msgid "Sending"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:994
+#, php-format
+msgid "%s sent %d out of %d"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:997
+msgid "Pause Sending"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1000
+msgid "Send a batch now"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1011
+#: admin/class-ultimate-newsletter-subscribers.php:1019
+msgid "No subscribers found."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1017
+msgid "Waiting for other campaign to finish sending"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1022
+msgid "Sending Paused"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1025
+msgid "Resume Sending"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1066
+#, php-format
+msgid "Sent: %d, Opened: %d%%, Clicked: %d%%"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1079
+#: widgets/subscription-form/views/form.php:9
+msgid "Title"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1080
+#: admin/class-ultimate-newsletter-email-groups.php:34
+#: admin/class-ultimate-newsletter-email-groups.php:35
+#: admin/class-ultimate-newsletter-subscribers.php:960
+#: admin/partials/newsletters/ultimate-newsletter-create-campaign.php:30
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:30
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:16
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:57
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:20
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:26
+#: includes/helper-functions.php:48 includes/helper-functions.php:50
+#: widgets/subscription-form/views/form.php:69
+msgid "Email Groups"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1081
+#: admin/class-ultimate-newsletter-subscribers.php:514
+#: admin/class-ultimate-newsletter-subscribers.php:961
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:61
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:69
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:33
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:39
+msgid "Status"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1082
+msgid "Sent, Opened, Clicked"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1083
+msgid "Modified On"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1084
+msgid "Sent On"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-admin.php:1141
+msgid "No Newsletters found."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:37
+#: admin/class-ultimate-newsletter-cron.php:69
+#: admin/class-ultimate-newsletter-settings.php:805
+msgid "Every 1 minute"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:41
+#: admin/class-ultimate-newsletter-settings.php:806
+msgid "Every 2 minutes"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:45
+#: admin/class-ultimate-newsletter-settings.php:807
+msgid "Every 5 minutes"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:49
+#: admin/class-ultimate-newsletter-settings.php:808
+msgid "Every 10 minutes"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:53
+msgid "Every 15 minutes"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:57
+#: admin/class-ultimate-newsletter-settings.php:810
+msgid "Every 30 minutes"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:61
+#: admin/class-ultimate-newsletter-settings.php:811
+msgid "Every 1 hour"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-cron.php:65
+#: admin/class-ultimate-newsletter-settings.php:812
+msgid "Every 2 hours"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:34
+#: admin/class-ultimate-newsletter-settings.php:35
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:208
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:383
+msgid "Settings"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:80
+#: admin/partials/settings/ultimate-newsletter-admin-settings.php:14
+msgid "General Settings"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:87
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:43
+msgid "From Name"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:94
+msgid "Having a name is so much better than someone@unknown.com."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:100
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:47
+msgid "From Email"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:107
+msgid "Enter a valid e-mail address here. eg. newsletter@mydomain.com."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:113
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:51
+msgid "Reply-to Name"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:120
+msgid "Give people a name to reply to."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:126
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:55
+msgid "Reply-to Email"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:133
+msgid "Your subscribers may want to talk to you, so let them."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:139
+msgid "Admin Notification Email"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:146
+msgid ""
+"The email address you would like Ultimate Newsletter plugin to keep in "
+"contact with you."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:152
+msgid "Notify Admin when"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:160
+msgid "Someone Subscribed"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:161
+msgid "Someone Unsubscribed"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:163
+msgid "What would you like to be notified about?"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:169
+msgid "Actions Page"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:176
+msgid ""
+"The page used to track newsletter open, click rates and other general "
+"newsletter actions. [ultimate_newsletter] shortcode must be on this page."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:183
+msgid "Link to Browser Version"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:190
+msgid ""
+"Displays at the top of your newsletters. Don't forget to include the link "
+"tag, ie: [link]The link[/link]."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:196
+msgid "Link to Subscriber Profile"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:203
+msgid ""
+"Add a link in the footer of all your newsletters so subscribers can edit "
+"their profile and lists. See your own subscriber profile page."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:209
+msgid "Subscriber Profile Page"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:216
+msgid ""
+"Select the page to display the subscriber's profile. [un_subscriber_profile] "
+"shortcode must be on this page."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:223
+msgid "Link to Unsubscribe page"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:230
+msgid ""
+"This changes the label for the unsubscribe link in the footer of your "
+"newsletters."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:236
+msgid "Unsubscribe Page"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:243
+msgid ""
+"A subscriber is directed to a page of your choice after clicking on the "
+"unsubscribe link, at the bottom of a newsletter. [un_unsubscribe] shortcode "
+"must be on this page."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:266
+msgid "How To Send Your Mail?"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:273
+msgid "Send Using"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:281
+msgid "WordPress"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:282
+msgid "SMTP"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:296
+msgid "SMTP Server Settings"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:303
+msgid "Host"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:310
+msgid "Enter your host's URL."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:316
+msgid "Username"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:323
+msgid "The username for your SMTP Account."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:329
+msgid "Password"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:336
+msgid "Your SMTP Password."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:342
+msgid "Port"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:349
+msgid "And Finally your port number. We recommend 465 or 587 if possible."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:355
+msgid "Encryption"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:364
+msgid "SSL"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:365
+msgid "TLS"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:372
+msgid "Authentication"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:380
+#: admin/class-ultimate-newsletter-settings.php:397
+msgid "Yes"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:381
+#: admin/class-ultimate-newsletter-settings.php:398
+msgid "No"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:383
+msgid ""
+"Leave this option to Yes. Only a tiny portion of SMTP services ask "
+"Authentication to be turned off."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:389
+msgid "Use Web API (if applicable)"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:400
+msgid ""
+"Leave this option to Yes. If you use \"SendGrid\", we will use their Web API "
+"to send emails."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:413
+msgid "Email Throttling Settings"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:420
+msgid "Send..."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:444
+#: admin/partials/settings/ultimate-newsletter-admin-settings.php:20
+msgid "Signup Confirmation"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:451
+msgid "Enable Signup Confirmation"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:458
+msgid ""
+"Prevent people from being subscribed to your list unwillingly, this option "
+"ensures you to keep a clean list."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:464
+msgid "Email Subject"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:471
+msgid ""
+"This is the subject text that gets sent to a new subscriber to confirm their "
+"subscription."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:477
+msgid "Email Content"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:484
+msgid ""
+"Don't forget to include: [confirm_link]Confirm your subscription.[/"
+"confirm_link]."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:490
+msgid "Thank You Message"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:497
+msgid ""
+"This is the message the user will see as they signup to your newsletters on "
+"your site."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:503
+msgid "Confirmation Page"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:511
+msgid ""
+"When subscribers click on the activation link, they are redirected to a page "
+"of your choice. [un_confirmation] shortcode must be on this page."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:809
+msgid "Every 15 minute"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:821
+msgid "emails"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:822
+msgid "Your web host has limits. We suggest 70 emails per hour to be safe."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:916
+msgid "Select Page"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:948
+msgid "Testing Ultimate Newsletter email settings"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:949
+msgid "Hello, this is a test email."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:954
+msgid "Email sent Successfully. There is nothing wrong with your settings."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:959
+msgid "Sorry, something went wrong. Edit your settings and try again."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-settings.php:966
+msgid "Sorry, you must provide an Email address"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:33
+#: admin/class-ultimate-newsletter-subscribers.php:34
+#: admin/class-ultimate-newsletter-subscribers.php:56
+#: admin/class-ultimate-newsletter-subscribers.php:780
+#: admin/partials/subscribers/ultimate-newsletter-subscribers-list.php:10
+msgid "Subscribers"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:272
+msgid ""
+"Trying to duplicate. Already there is an subscriber account associated to "
+"this email ID."
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:273
+msgid "Edit subscriber"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:502
+#: admin/class-ultimate-newsletter-subscribers.php:959
+#: admin/class-ultimate-newsletter-subscribers.php:1120
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:46
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:22
+#: public/partials/ultimate-newsletter-subscriber-profile.php:23
+msgid "Email"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:506
+#: admin/class-ultimate-newsletter-subscribers.php:958
+#: admin/class-ultimate-newsletter-subscribers.php:1121
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:18
+#: public/partials/ultimate-newsletter-subscriber-profile.php:16
+#: widgets/subscription-form/subscription-form.php:142
+msgid "Name"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:510
+msgid "Date"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:779
+msgid "Subscriber"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:819
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:73
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:37
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:43
+msgid "Subscribed"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:823
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:78
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:42
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:48
+msgid "Unconfirmed"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:827
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:83
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:47
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:53
+msgid "Unsubscribed"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:962
+msgid "Subscribed On"
+msgstr ""
+
+#: admin/class-ultimate-newsletter-subscribers.php:1119
+msgid "Ignore column"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:11
+#: admin/partials/newsletters/ultimate-newsletter-create-campaign.php:12
+#: admin/partials/newsletters/ultimate-newsletter-editor.php:12
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:12
+#: admin/partials/newsletters/ultimate-newsletter-templates.php:13
+msgid "Create a New Campaign"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:12
+#: admin/partials/newsletters/ultimate-newsletter-create-campaign.php:15
+#: admin/partials/newsletters/ultimate-newsletter-editor.php:15
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:15
+#: admin/partials/newsletters/ultimate-newsletter-templates.php:16
+msgid "Design your NewsLetter"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:13
+#: admin/partials/newsletters/ultimate-newsletter-create-campaign.php:18
+#: admin/partials/newsletters/ultimate-newsletter-editor.php:18
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:18
+#: admin/partials/newsletters/ultimate-newsletter-templates.php:19
+msgid "Send"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:24
+msgid "Content"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:25
+msgid "Design"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:26
+#: admin/partials/newsletters/ultimate-newsletter-editor.php:39
+msgid "Change Template"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:34
+msgid "TEXT"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:37
+msgid "IMAGE"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:40
+msgid "BUTTON"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:43
+msgid "DIVIDER"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:46
+msgid "SOCIAL"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:55
+msgid "Text Editor"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:75
+msgid "Image"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:79
+msgid "Upload Image"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:84
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:269
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:282
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:295
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:308
+msgid "URL"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:89
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:274
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:287
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:300
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:313
+msgid "Alternate Text"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:94
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:212
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:396
+msgid "Align"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:96
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:214
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:398
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:528
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:604
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:680
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:756
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:857
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:981
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1104
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1227
+msgid "Left"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:97
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:215
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:399
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:529
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:605
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:681
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:757
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:858
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:982
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1105
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1228
+msgid "Center"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:98
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:216
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:400
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:531
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:607
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:683
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:759
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:860
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:984
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1107
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1230
+msgid "Justify"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:99
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:217
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:401
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:530
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:606
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:682
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:758
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:859
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:983
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1106
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1229
+msgid "Right"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:104
+msgid "Link Image to a webpage ( optional )"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:111
+msgid "Margins"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:111
+msgid "Edge To Edge"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:118
+msgid "Button"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:122
+msgid "Button Text"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:127
+msgid "Link this button to"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:131
+msgid "Button Style"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:135
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:326
+msgid "Border"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:137
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:248
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:328
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:377
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:450
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:786
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:798
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:880
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:910
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:922
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1004
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1033
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1045
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1127
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1156
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1168
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1250
+msgid "None"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:138
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:249
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:329
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:451
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:787
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:799
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:911
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:923
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1034
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1046
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1157
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1169
+msgid "Solid"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:139
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:250
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:330
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:452
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:788
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:800
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:912
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:924
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1035
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1047
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1158
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1170
+msgid "Dotted"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:140
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:251
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:331
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:453
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:789
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:801
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:913
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:925
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1036
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1048
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1159
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1171
+msgid "Dashed"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:147
+msgid "Border radius"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:152
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:258
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:321
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:443
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:779
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:903
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1026
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1149
+msgid "Background Color"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:156
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:337
+msgid "Text Style"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:160
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:341
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:463
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:539
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:615
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:691
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:818
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:942
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1065
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1188
+msgid "Text Color"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:165
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:346
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:468
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:544
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:620
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:696
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:823
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:947
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1070
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1193
+msgid "Font Family"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:167
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:348
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:470
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:546
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:622
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:698
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:825
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:949
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1072
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1195
+msgid "Arial"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:168
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:349
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:471
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:547
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:623
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:699
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:826
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:950
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1073
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1196
+msgid "Comic Sans MS"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:169
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:350
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:472
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:548
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:624
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:700
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:827
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:951
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1074
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1197
+msgid "Courier New"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:170
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:351
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:473
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:549
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:625
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:701
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:828
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:952
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1075
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1198
+msgid "Georgia"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:171
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:474
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:550
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:626
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:702
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:829
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:953
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1076
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1199
+msgid "Helvetica"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:172
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:353
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:476
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:552
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:628
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:704
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:831
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:955
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1078
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1201
+msgid "Times New Roman"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:177
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:358
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:481
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:557
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:633
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:709
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:836
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:960
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1083
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1206
+msgid "Font Size"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:186
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:367
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:498
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:574
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:650
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:726
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:870
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:994
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1117
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1240
+msgid "Font Weight"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:188
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:196
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:369
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:492
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:500
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:508
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:518
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:568
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:576
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:584
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:594
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:644
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:652
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:660
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:670
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:720
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:728
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:736
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:746
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:847
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:872
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:971
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:996
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1094
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1119
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1217
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1242
+msgid "Normal"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:189
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:370
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:501
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:577
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:653
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:729
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:873
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:997
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1120
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1243
+msgid "Bold"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:194
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:516
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:592
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:668
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:744
+msgid "Letter Spacing"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:204
+msgid "Padding"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:222
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:406
+msgid "Width"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:224
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:408
+msgid "Fit size"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:225
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:409
+msgid "Full width"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:232
+msgid "Divider"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:236
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:808
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:932
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1055
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1178
+msgid "Padding Top"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:241
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:813
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:937
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1060
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1183
+msgid "Padding Bottom"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:246
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:448
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:784
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:908
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1031
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1154
+msgid "Border Top"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:265
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:278
+msgid "Twitter"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:291
+msgid "Google+"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:304
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:317
+msgid "Style"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:352
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:475
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:551
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:627
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:703
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:830
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:954
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1077
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1200
+msgid "Tahoma"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:375
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:878
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1125
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1248
+msgid "Text decoration"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:378
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:881
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1005
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1128
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1251
+msgid "Underline"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:379
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:882
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1006
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1129
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1252
+msgid "Line-Through"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:387
+#: widgets/subscription-form/views/form.php:19
+msgid "Display"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:389
+msgid "Icon only"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:390
+msgid "Text only"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:391
+msgid "Both icon and text"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:416
+msgid "Save and Exit"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:419
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:72
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:94
+#: admin/partials/subscribers/ultimate-newsletter-import-list.php:58
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:431
+msgid "Page Design"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:459
+msgid "Header 1"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:490
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:566
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:642
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:718
+msgid "Font Style"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:493
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:569
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:645
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:721
+msgid "Italic"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:506
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:582
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:658
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:734
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:845
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:969
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1092
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1215
+msgid "Line Height"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:509
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:585
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:661
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:737
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:848
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:972
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1095
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1218
+msgid "Slight"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:510
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:586
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:662
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:738
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:849
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:973
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1096
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1219
+msgid "1 1/2 Spacing"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:511
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:587
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:663
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:739
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:850
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:974
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1097
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1220
+msgid "Double Space"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:526
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:602
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:678
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:754
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:855
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:979
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1102
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1225
+msgid "Text Align"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:535
+msgid "Header 2"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:611
+msgid "Header 3"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:687
+msgid "Header 4"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:769
+msgid "Preheader"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:796
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:920
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1043
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1166
+msgid "Border Bottom"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:865
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:989
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1112
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1235
+msgid "Link Color"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:892
+msgid "Header"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1002
+msgid "Text Decoration"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1016
+msgid "Body"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1139
+msgid "Footer Design"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-builder.php:1270
+#: admin/partials/newsletters/ultimate-newsletter-create-campaign.php:46
+#: admin/partials/newsletters/ultimate-newsletter-editor.php:38
+msgid "Save & Continue"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-create-campaign.php:26
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:26
+msgid "Subject"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:59
+msgid "Send a Test Preview"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:62
+msgid "Test Email"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:73
+msgid "Save as Draft"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-schedule.php:74
+msgid "Schedule Newsletter"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-templates.php:35
+msgid "Coming soon"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-templates.php:46
+msgid "Active"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-templates.php:47
+msgid "Customize"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletter-templates.php:50
+msgid "Activate"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletters-list.php:11
+#: admin/partials/subscribers/ultimate-newsletter-subscribers-list.php:11
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletters-list.php:13
+#: admin/partials/subscribers/ultimate-newsletter-subscribers-list.php:15
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: admin/partials/newsletters/ultimate-newsletters-list.php:20
+msgid "Search Newsletters"
+msgstr ""
+
+#: admin/partials/settings/ultimate-newsletter-admin-settings.php:17
+msgid "How To Send Your Email ?"
+msgstr ""
+
+#: admin/partials/settings/ultimate-newsletter-admin-settings.php:31
+msgid "Test your Email settings"
+msgstr ""
+
+#: admin/partials/settings/ultimate-newsletter-admin-settings.php:36
+msgid ""
+"This is to test your mail settings. If you don't receive a mail, your "
+"settings maybe incorrect. Please also check your SPAM folder."
+msgstr ""
+
+#: admin/partials/settings/ultimate-newsletter-admin-settings.php:44
+msgid "Test email"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:28
+msgid "Format"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:30
+msgid "CSV file"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:35
+msgid "Export confirmed subscribers only?"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:42
+msgid "List of fields to export"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:51
+msgid "First name"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-export-form.php:56
+msgid "Subscription date"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:16
+msgid "How do you want to import?"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:20
+msgid "Copy paste in a text box"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:25
+msgid "Upload a CSV file"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:31
+msgid "Then paste your list here"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:33
+msgid ""
+"This needs to be in CSV style or a simple paste from Gmail, Hotmail or Yahoo."
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:36
+msgid "Each item in one line."
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:40
+msgid "Email address, First name"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:45
+msgid "Upload a file"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:47
+msgid "This needs to be in CSV style."
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:52
+msgid "Upload CSV"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-import-form.php:53
+msgid "Invalid CSV file"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:11
+msgid "Edit Subscriber"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:11
+msgid "Add New Subscriber"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:66
+#: public/partials/ultimate-newsletter-subscriber-profile.php:56
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-subscriber-form.php:66
+msgid "Add Subscriber"
+msgstr ""
+
+#: admin/partials/subscribers/ultimate-newsletter-subscribers-list.php:22
+msgid "Search Subscribers"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:43
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:44
+msgid "[link]Edit your subscription[/link]"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:46
+msgid "[link]Unsubscribe[/link]"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:99
+msgid "Thank You For Subscribing"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:100
+msgid ""
+"Dear [username],\n"
+"\n"
+"Thank you for signing up to our newsletter.\n"
+"\n"
+"Please click on this [confirm_link]link[/confirm_link] to activate your "
+"subscription.\n"
+"\n"
+"Kind Regards"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:101
+msgid "Thank You for signing up. You will receive a confirmation mail shortly."
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:157
+msgid "Subscriber Profile"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:182
+msgid "Unsubscribe"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:207
+msgid "Confirmation"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:235
+msgid "Wordpress Users"
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:238
+msgid ""
+"All your site members are added to this group dynamically by the plugin."
+msgstr ""
+
+#: includes/class-ultimate-newsletter-activator.php:313
+msgid "My First Newsletter"
+msgstr ""
+
+#: includes/helper-functions.php:49
+msgid "Email Group"
+msgstr ""
+
+#: includes/helper-functions.php:52
+msgid "New Email Group"
+msgstr ""
+
+#: includes/helper-functions.php:53
+msgid "Add New Email Group"
+msgstr ""
+
+#: includes/helper-functions.php:54
+msgid "Edit Email Group"
+msgstr ""
+
+#: includes/helper-functions.php:55
+msgid "Update Email Group"
+msgstr ""
+
+#: includes/helper-functions.php:56
+msgid "View Email Group"
+msgstr ""
+
+#: includes/helper-functions.php:57
+msgid "Search Email Groups"
+msgstr ""
+
+#: includes/helper-functions.php:58
+msgid "No Email Groups found."
+msgstr ""
+
+#: includes/helper-functions.php:59
+msgid "No Email Groups found in Trash."
+msgstr ""
+
+#: includes/helper-functions.php:335
+msgid "[{site_name}] \"{subscriber_name}\" subscribed to your newsletters"
+msgstr ""
+
+#: includes/helper-functions.php:338
+msgid ""
+"Dear Administrator,<br /><br />The following user has subscribed to your "
+"newsletters.<br />User: {subscriber_name}<br />Email: {subscriber_email}<br /"
+"><br />Please do not respond to this message. It is automatically generated "
+"and is for information purposes only."
+msgstr ""
+
+#: includes/helper-functions.php:372
+msgid "[{site_name}] \"{subscriber_name}\" unsubscribed from your newsletters"
+msgstr ""
+
+#: includes/helper-functions.php:375
+msgid ""
+"Dear Administrator,<br /><br />The following user has been unsubscribed from "
+"your newsletters.<br />User: {subscriber_name}<br />Email: {subscriber_email}"
+"<br /><br />Please do not respond to this message. It is automatically "
+"generated and is for information purposes only."
+msgstr ""
+
+#: public/class-ultimate-newsletter-public.php:352
+msgid "Thank you! You already have an active subscription."
+msgstr ""
+
+#: public/class-ultimate-newsletter-public.php:359
+msgid "Thank you for confirming your subscription!"
+msgstr ""
+
+#: public/class-ultimate-newsletter-public.php:365
+#: public/class-ultimate-newsletter-public.php:407
+#: public/class-ultimate-newsletter-public.php:445
+msgid "Sorry, you don't have permission to do this action"
+msgstr ""
+
+#: public/class-ultimate-newsletter-public.php:398
+msgid "Successfully updated your subscription."
+msgstr ""
+
+#: public/class-ultimate-newsletter-public.php:430
+msgid "You've been unsubscribed from our newsletters."
+msgstr ""
+
+#: public/partials/ultimate-newsletter-subscriber-profile.php:30
+msgid "Subscribe to our following lists"
+msgstr ""
+
+#: public/partials/ultimate-newsletter-subscriber-profile.php:44
+msgid ""
+"Your subscription is still pending email verification. Kindly check your "
+"inbox to confirm your subscription."
+msgstr ""
+
+#: public/partials/ultimate-newsletter-subscriber-profile.php:48
+msgid "Unsubscribe from our newsletters?"
+msgstr ""
+
+#: public/partials/ultimate-newsletter-unsubscribe-confirm.php:9
+msgid ""
+"We are sorry to see you go. Are you sure want to unsubscribe from our "
+"newsletters?"
+msgstr ""
+
+#: public/partials/ultimate-newsletter-unsubscribe-confirm.php:13
+msgid "Confirm"
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:35
+msgid "An Ultimate Newsletter Subscription Form"
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:38
+msgid "Newsletter Subscription Form"
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:78
+#: widgets/subscription-form/subscription-form.php:146
+msgid "Subscribe"
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:139
+msgid ""
+"Simply subscribe to our newsletters and we will be in touch. Don't worry, we "
+"won't spam you and of course you may unsubscribe at any time."
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:143
+msgid "Enter Your Name"
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:144
+msgid "Enter Your Email"
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:145
+msgid "joe@example.com"
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:182
+msgid "Invalid Email ID."
+msgstr ""
+
+#: widgets/subscription-form/subscription-form.php:196
+msgid ""
+"Sorry, there is no email-group associated to this form. Kindly report to the "
+"site administrator."
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:14
+msgid "Description"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:21
+msgid "Horizontal"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:22
+msgid "Vertical"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:27
+msgid "Name Field"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:31
+msgid "Collect Name"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:35
+#: widgets/subscription-form/views/form.php:49
+#: widgets/subscription-form/views/form.php:63
+msgid "Label"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:40
+#: widgets/subscription-form/views/form.php:54
+msgid "Placeholder Text"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:46
+msgid "Email Field"
+msgstr ""
+
+#: widgets/subscription-form/views/form.php:60
+msgid "Subscribe Button"
+msgstr ""

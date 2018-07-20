@@ -1,0 +1,432 @@
+/*---------------------------------------------------------------------------------------------
+	General
+---------------------------------------------------------------------------------------------*/
+.un-input-large {
+	width: 100%;
+}
+
+.un-input-mini {
+	width: 75px;
+}
+
+.un-hide {
+	display: none;
+}
+
+.un-pull-left {
+	float: left;
+}
+
+.un-pull-right {
+	float: right;
+}
+
+.un-clearfix {
+	clear: both;
+}
+ 
+.un-clearfix:after {
+	display: table;
+	content: ' ';
+}
+
+.un-invalid,
+.un-invalid th label {
+	color: red;
+}
+
+.un-multi-list {
+	display: inline-block;
+	width: 43%;
+	min-width: 200px;
+	max-height: 150px;
+	padding: 7px;	
+	border: 1px solid #ccc;
+	overflow-y: scroll;	
+}
+
+.un-tab-disabled {
+	color: #c9c9c9;
+	background: #eee;
+	cursor: not-allowed;
+}
+
+#un-progress-bg {
+	width: 100px;
+	height: 10px;
+	background: #CCC;
+}
+
+#un-status-display {
+	height: 10px;
+	background: #08C;  
+}
+
+#un-settings-test-email-response.spinner,
+#un-test-email-response.spinner {
+	float: none;
+	margin: 0;
+	padding: 0;
+	height: 27px;
+	vertical-align: top;
+	background-position: center;
+	visibility: visible;
+}
+
+/*---------------------------------------------------------------------------------------------
+	Newsletters
+---------------------------------------------------------------------------------------------*/
+#ultimate-newsletters-list-form .preview {
+	float: none;
+}
+
+/*---------------------------------------------------------------------------------------------
+	Subscribers
+---------------------------------------------------------------------------------------------*/
+#un-subscribers-import-list-form .wp-list-table tfoot {
+	display: none;
+}
+
+/*---------------------------------------------------------------------------------------------
+	Settings
+---------------------------------------------------------------------------------------------*/
+.un-settings .notice {
+	margin-top: 15px !important;
+}
+
+.un-settings h2 {
+	margin-top: 2em;
+	padding-bottom: 10px;
+	border-bottom: 1px dashed #CCC;
+}
+
+/*---------------------------------------------------------------------------------------------
+	Widget
+---------------------------------------------------------------------------------------------*/
+.un-widget-admin-field-group {
+	margin-bottom: 10px;
+	padding: 3px 12px;
+	background: #EEE;
+}
+
+/*---------------------------------------------------------------------------------------------
+	Newsletter Templates
+---------------------------------------------------------------------------------------------*/
+.un-templates-row {
+	margin: 28px 0;
+}
+
+.un-template-item {
+	position: relative;
+	float: left;
+	width: 25%;
+}
+
+.un-template-thumbnail {
+	margin: 7px;
+	padding: 10px;
+	background: #FFF;
+	border: 1px solid #CCC;
+	border-radius: 3px;
+}
+
+.un-template-thumbnail img {
+	width: 100%;
+	height: auto;
+}
+
+.un-add-new-template .un-template-thumbnail {
+	position: absolute;
+	width: 100%;
+	padding-bottom: 124%;
+	background: transparent;
+	border: 5px dashed #d5d2ca;
+	border: 5px dashed rgba(0, 0, 0, 0.1);
+	box-sizing: border-box;
+	cursor: pointer;
+}
+
+.un-add-new-template .un-template-thumbnail:hover {	
+	background: #0073aa;
+	border: 5px dashed #0073aa;
+	color: #fff;
+}
+
+.un-add-new-template .un-dashicons:after {
+	position: absolute;
+	display: inline-block;
+	background: #e5e5e5;
+	background: rgba(153, 153, 153, 0.1);
+	border-radius: 50%;
+	font: normal 74px/115px dashicons;
+	content: "\f132";
+	width: 100px;
+	height: 100px;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -50px;
+	padding: 0;
+	text-align: center;
+	color: rgb(153, 153, 153);
+	text-shadow: none;
+	text-indent: -4px;
+	vertical-align: middle;
+}
+
+.un-add-new-template .un-template-thumbnail:hover .un-dashicons:after {
+	background: #5b9dd9;
+	color: #FFF;
+}
+
+.un-template-caption {
+	padding: 10px 0 0 0;
+}
+
+/*---------------------------------------------------------------------------------------------
+	Newsletter Builder
+---------------------------------------------------------------------------------------------*/
+#un-builder {
+	margin: 20px 0;
+}
+
+#un-builder .unb-left-col {
+	width: 65%;
+}
+
+#un-builder .unb-right-col {
+	width: 32%;
+}
+
+#un-builder .nav-tab-wrapper {
+	border-bottom: 1px solid #ccc;
+}
+
+#un-builder .nav-tab:focus {
+	box-shadow: none;
+	-webkit-box-shadow: none;
+}
+
+#un-builder .unb-options-tab-content {
+	margin: 10px 0;
+	padding: 7px;
+}
+
+#unb-cpanel .unb-cpanel-icon {
+	float:left;
+	margin-right:15px;
+	margin-bottom:15px;
+	text-align:center;
+}
+
+.unb-cpanel-icon a {
+	display:block;
+	width: 100px;
+	padding: 15px;
+	background-color:#fff;
+	border:1px solid #CCC;
+	border-radius: 3px;
+	color:#777;	
+	text-decoration:none;
+	vertical-align:middle;
+}
+
+#unb-cpanel .unb-cpanel-icon a:hover,
+#unb-cpanel .unb-cpanel-icon a:focus,
+#unb-cpanel .unb-cpanel-icon a:active {
+	-webkit-box-shadow:-5px 10px 15px rgba(0, 0, 0, 0.25);
+	-moz-box-shadow:-5px 10px 15px rgba(0, 0, 0, 0.25);
+	box-shadow:-5px 10px 15px rgba(0, 0, 0, 0.25);
+}
+
+#unb-cpanel i {	
+	font-size: 48px;
+	font-weight: normal;
+	text-align: center;
+}
+
+#unb-cpanel span {
+	display: block;
+	text-align: center;
+	margin: 10px 0 0;
+}
+
+#un-builder .unb-options-accordion-trigger {
+	margin-top: 30px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.unb-options-accordion-inner h2 {
+	margin-top: 15px;
+}
+
+.unb-options-accordion-inner label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.unb-options-accordion-inner input[type="text"],
+.unb-options-accordion-inner select {
+	vertical-align: top;
+}
+
+.unb-options-accordion-inner .wp-color-result {
+	margin: 0;
+	vertical-align: top;
+}
+
+#un-builder tr.ui-sortable-handle {
+	cursor: move;
+}
+
+.unb-options-group {
+	display: none;
+}
+
+.unb-options-group hr {
+	margin-bottom: 15px;
+}
+
+.unb-options-group label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+.unb-options-group .wp-color-result {
+	margin: 0;
+	vertical-align: top;
+}
+
+.unb-sort-placeholder {
+    background-color: #ffffcc;
+	font-weight: bold;
+	text-align: center;
+	line-height: 3em;
+}
+
+.unb-content-wrapper.hover {
+ 	background-color: #e5e5e5;
+	position: relative;
+}
+
+.unb-content-wrapper.active {
+	border: 3px dashed #bbb;
+}
+
+#unb-toolset-container,
+.unb-toolset { 
+	display: none;
+}
+
+.unb-content-wrapper.hover .unb-toolset {
+	display: block !important;
+	position: absolute;
+	width: 100%;
+	top: 0;
+    right: 0;
+	left: 0;
+	font-size: 14px;
+}
+
+.unb-toolset-buttons-left {
+	position: absolute;
+	top: 3px;
+	left: 3px;
+	z-index: 9;
+	pointer-events: all;
+}
+
+.unb-toolset-buttons-right {
+	position: absolute;
+	top: 3px;
+	right: 3px;
+	z-index: 9;
+	pointer-events: all;
+}
+
+.unb-toolset-buttons-left span {
+	margin: 0 1px;
+	padding: 7px;
+	background: #FFF;
+	line-height: 1em;
+	cursor: pointer;
+}
+
+.unb-toolset-buttons-right span {
+	margin: 0 1px 0 -1px;
+	padding: 7px;
+	background: #FFF;
+	line-height: 1em;
+	cursor: pointer;
+}
+
+.unb-toolset-buttons-left span:hover {
+	background: #666;
+	color: #FFF;
+}
+
+.unb-toolset-buttons-right span:hover {
+	background: #666;
+	color: #FFF;
+}
+
+#toplevel_page_ultimate_newsletters .dashicons-chart-line:before {
+
+	color: yellow !important;
+
+}
+
+#toplevel_page_ultimate_newsletters .wp-menu-name {
+
+	font-size: 13px;
+
+}
+
+#un-builder ul {
+	list-style-type: disc;
+	margin-left: 2em;
+}
+
+
+
+/*---------------------------------------------------------------------------------------------
+	Mobile
+---------------------------------------------------------------------------------------------*/
+
+@media only screen and (max-width: 1240px) {
+	.un-template-item {
+		width: 33% !important;
+	}
+	
+	#unb-cpanel .unb-cpanel-icon {
+		float: none !important;
+	}
+	
+	#unb-cpanel .unb-cpanel-icon a {
+		width: 100% !important;
+	}
+	
+	#unb-cpanel .unb-cpanel-icon i {
+		font-size: 14px !important;
+	}
+	
+	#unb-cpanel .unb-cpanel-icon span {
+		display: inline-block !important;
+		margin: 0 !important;
+		text-align: left !important;
+	}
+}
+
+@media only screen and (max-width: 1024px) {
+	#unb-options .nav-tab {
+		padding: 5px !important;
+		font-size: 12px !important;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.un-template-item {
+		width: 100% !important;
+	}
+}

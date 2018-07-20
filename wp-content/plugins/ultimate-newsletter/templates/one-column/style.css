@@ -1,0 +1,375 @@
+p {
+	margin: 10px 0;
+	padding: 0;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+
+img, a img {
+	border: 0;
+	height: auto;
+	outline: none;
+	text-decoration: none;
+}
+
+#unTemplate body, #unBodyTable, #unBodyCell {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+#outlook a {
+	padding: 0;
+}
+
+img {
+	-ms-interpolation-mode: bicubic;
+}
+
+table {
+	mso-table-lspace: 0pt;
+	mso-table-rspace: 0pt;
+}
+
+.ReadMsgBody {
+	width: 100%;
+}
+
+.ExternalClass {
+	width: 100%;
+}
+
+p, a, li, td, blockquote {
+	mso-line-height-rule: exactly;
+}
+
+a[href^=tel], a[href^=sms] {
+	color: inherit;
+	cursor: default;
+	text-decoration: none;
+}
+
+p, a, li, td, body, table, blockquote {
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+.ExternalClass, .ExternalClass p, .ExternalClass td, .ExternalClass div, .ExternalClass span, .ExternalClass font {
+	line-height: 100%;
+}
+			
+a[x-apple-data-detectors] {
+	color: inherit !important;
+	text-decoration: none !important;
+	font-size: inherit !important;
+	font-family: inherit !important;
+	font-weight: inherit !important;
+	line-height: inherit !important;
+}
+
+.unTemplateContainer {
+	max-width: 600px !important;
+}
+
+.unTextContent {
+	word-break: break-word;
+}
+
+.unTextContent img {
+	height: auto !important;
+}
+
+.unButtonContentContainer {
+	background-color: #2196F3;
+	border-radius: 3px;
+	border-collapse: separate !important;
+}
+
+.unButtonContent {
+	font-family: Helvetica;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 100%;
+	letter-spacing: normal;
+	text-align: center;
+}
+
+a.unButton {
+	display: block;
+	color: #FFFFFF;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.unImage {
+	vertical-align: bottom;
+}
+
+.unImageContent .unImage {
+	width: 100%;
+	max-width: 600px;
+}
+
+.unDividerBlock {
+	table-layout: fixed !important;
+}
+
+.unDividerContent {
+	border-top: 2px solid #EEEEEE;
+}
+
+#unTemplate body, #unBodyTable {
+	background-color: #FAFAFA;
+}
+			
+#unBodyCell {
+	border-top: 0;
+}
+
+#unTemplate h1 {
+	color: #202020;
+	font-family: Helvetica;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 125%;
+	letter-spacing: normal;
+	text-align: left;
+}
+			
+#unTemplate h2 {
+	color: #202020;
+	font-family: Helvetica;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 125%;
+	letter-spacing: normal;
+	text-align: left;
+}
+			
+#unTemplate h3 {
+	color: #202020;
+	font-family: Helvetica;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 125%;
+	letter-spacing: normal;
+	text-align: left;
+}
+			
+#unTemplate h4 {
+	color: #202020;
+	font-family: Helvetica;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	line-height: 125%;
+	letter-spacing: normal;
+	text-align: left;
+}
+
+#unTemplatePreheader {
+	background-color: #FAFAFA;
+	border-top: 0;
+	border-bottom: 0;
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+
+#unTemplatePreheader .unTextContent, #unTemplatePreheader .unTextContent p {
+	color: #656565;
+	font-family: Helvetica;
+	font-size: 12px;
+	line-height: 150%;
+	text-align: center;
+}
+			
+#unTemplatePreheader .unTextContent a, #unTemplatePreheader .unTextContent p a {
+	color: #656565;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+#unTemplateHeader {
+	background-color: #FFFFFF;
+	border-top: 0;
+	border-bottom: 0;
+	padding-top: 9px;
+	padding-bottom: 0;
+}
+
+#unTemplateHeader .unTextContent, #unTemplateHeader .unTextContent p {
+	color: #202020;
+	font-family: Helvetica;
+	font-size: 16px;
+	line-height: 150%;
+	text-align: left;
+}
+			
+#unTemplateHeader .unTextContent a, #unTemplateHeader .unTextContent p a {
+	color: #2BAADF;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+#unTemplateBody {
+	background-color: #FFFFFF;
+	border-top: 0;
+	border-bottom: 0;
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+
+#unTemplateBody .unTextContent, #unTemplateBody .unTextContent p {
+	color: #202020;
+	font-family: Helvetica;
+	font-size: 16px;
+	line-height: 150%;
+	text-align: left;
+}	
+			
+#unTemplateBody .unTextContent a, #unTemplateBody .unTextContent p a {
+	color: #2BAADF;
+	font-weight: normal;
+	text-decoration: underline;
+}	
+
+#unTemplateFooter {
+	background-color: #FAFAFA;
+	border-top: 0;
+	border-bottom: 0;
+	padding-top: 9px;
+	padding-bottom: 9px;
+}
+
+#unTemplateFooter .unTextContent, #unTemplateFooter .unTextContent p {
+	color: #656565;
+	font-family: Helvetica;
+	font-size: 12px;
+	line-height: 150%;
+	text-align: center;
+}	
+			
+#unTemplateFooter .unTextContent a, #unTemplateFooter .unTextContent p a {
+	color: #656565;
+	font-weight: normal;
+	text-decoration: underline;
+}
+			
+@media only screen and (min-width: 768px) {
+	.unTemplateContainer {
+		width: 600px !important;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	body, table, td, p, a, li, blockquote {
+		-webkit-text-size-adjust: none !important;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	#unTemplate body {
+		width: 100% !important;
+		min-width: 100% !important;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	#unBodyCell {
+		padding-top: 10px !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	.unImage {
+		width: 100% !important;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.unTextContentContainer {
+		max-width: 100% !important;
+		width: 100% !important;
+	}
+}
+		
+@media only screen and (max-width: 480px) {
+	.unTextContent {
+		padding-right: 18px !important;
+		padding-left: 18px !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	#unTemplate h1 {
+		font-size: 22px !important;
+		line-height: 125% !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	#unTemplate h2 {
+		font-size: 20px !important;
+		line-height: 125% !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	#unTemplate h3 {
+		font-size: 18px !important;
+		line-height: 125% !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	#unTemplate h4 {
+		font-size: 16px !important;
+		line-height: 150% !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	#unTemplatePreheader {
+		display: block !important;
+	}
+}
+			
+@media only screen and (max-width: 480px){
+	#unTemplatePreheader .unTextContent, #unTemplatePreheader .unTextContent p {
+		font-size: 14px !important;
+		line-height: 150% !important;
+	}
+}
+						
+@media only screen and (max-width: 480px) {
+	#unTemplateHeader .unTextContent, #unTemplateHeader .unTextContent p {
+		font-size: 16px !important;
+		line-height: 150% !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	#unTemplateBody .unTextContent, #unTemplateBody .unTextContent p {
+		font-size: 16px !important;
+		line-height: 150% !important;
+	}
+}
+			
+@media only screen and (max-width: 480px) {
+	#unTemplateFooter .unTextContent, #unTemplateFooter .unTextContent p {
+		font-size: 14px !important;
+		line-height: 150% !important;
+	}
+}

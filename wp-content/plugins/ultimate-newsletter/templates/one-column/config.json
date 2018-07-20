@@ -1,0 +1,11 @@
+{
+	"template": {
+    	"title"       : "One Column",
+		"author"      : "Yendif Technologies",
+		"version"     : "1.0.0",
+		"date"        : "2016-09-20",
+		"author_url"  : "https://yendif.com",
+		"licence"     : "GPLv3"
+    }	
+	
+}
